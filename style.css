@@ -1,0 +1,64 @@
+.akapit{
+    font-size: 32px;
+    color: chartreuse;
+}
+#akapit2{
+    font-size: 1.25rem;
+    color: red;
+}
+p{
+    text-decoration: dotted;
+}
+#pojemnik{
+    width: 1280px;
+    height: 800px;
+    background-color: blueviolet;
+    margin-left: auto;
+}
+#LewaStrona{
+    width: 50%;
+    height: 200px;
+    background-color: white;
+    float: left;
+}
+#PrawaStrona{
+    width: 50%;
+    height: 200px;
+    background-color: red;
+    float: right;
+}
+#Środek{
+    width: 100%;
+    height: 200px;
+    background-color: brown;
+    clear: both;
+}
+#PrawyPrawy{
+    width: 25%;
+    height: 216px;
+    background-color: aqua;
+    float: right;
+}
+#PrawyLewy{
+    width: 25%;
+    height: 216px;
+    background-color: rgb(238, 146, 146);
+    float: right;
+}
+#PrawyDolny{
+    width: 25%;
+    height: 150px;
+    background-color: rgb(136, 118, 118);
+    float: right;
+}
+#LewyPrawieDolny{
+    width: 25%;
+    height: 150px;
+    background-color: chartreuse;
+    float: left;
+}
+#ŚrodkowyDolny{
+    width: 50%;
+    height: 50px;
+    background-color: chocolate;
+}
